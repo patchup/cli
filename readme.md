@@ -2,8 +2,8 @@
     <img src="assets/octopus.svg" width="150" />
     <h1>Patchup CLI</h1>
     <p>A cross-platform command line tool to generate and apply binary patches across files and directories.</p>
-    <a href="https://github.com/Dezyh/patchup/actions/workflows/cli.yml">
-        <img alt="Patchup CLI" src="https://github.com/Dezyh/patchup/actions/workflows/cli.yml/badge.svg" />
+    <a href="https://github.com/patchup/cli/actions/workflows/cli.yml">
+        <img alt="Patchup CLI" src="https://github.com/patchup/cli/actions/workflows/cli.yml/badge.svg" />
     </a>
 </div>
 
