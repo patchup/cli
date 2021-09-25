@@ -2,6 +2,12 @@ name: Patchup CLI
 
 on:
   push:
+    paths:
+      - src/**
+      - package/**
+      - .github/**
+      - Cargo.toml
+      - Cargo.lock
     branches: 
       - master
 
